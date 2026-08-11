@@ -1,0 +1,20 @@
+{
+  "name": "job-engine",
+  "version": "1.0.0",
+  "description": "A reusable shift-based job engine for Roblox RP/life-sim games.",
+  "main": "index.js",
+  "scripts": {
+    "build": "rbxtsc",
+    "watch": "rbxtsc -w"
+  },
+  "keywords": ["roblox-ts", "roblox", "rojo"],
+  "author": "Nico Caicedo",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@rbxts/compiler-types": "^3.0.0-types.0",
+    "@rbxts/types": "^1.0.943",
+    "roblox-ts": "^3.0.0",
+    "typescript": "^7.0.2"
+  }
+}

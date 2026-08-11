@@ -1,0 +1,20 @@
+# Build output
+/*.rbxlx
+/*.rbxl
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+# roblox-ts compiled output / runtime include
+/out
+/include
+*.tsbuildinfo
+
+# Node
+/node_modules
+
+# macOS
+.DS_Store

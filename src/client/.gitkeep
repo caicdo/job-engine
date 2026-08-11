@@ -1,0 +1,4 @@
+JobEngine is a server-only engine — its RemoteEvents are meant to be consumed by your own
+client-side UI (a job-selection menu, a shift HUD), which is out of scope for this repo (see
+README's "Scope" section). This folder is kept (with this file, since git doesn't track empty
+directories) to mirror the shared/server/client layout Rojo projects in this repo family use.
